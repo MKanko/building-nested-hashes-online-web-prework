@@ -20,10 +20,6 @@ def bonus
    }
   }
   
-end 
-
-def change_status 
-
   epic_tragedy[:Montague][:hero][:status] = "dead"
   epic_tragedy[:Capulet][:heroine][:status] = "dead" 
 
