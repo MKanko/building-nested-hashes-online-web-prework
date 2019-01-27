@@ -19,7 +19,7 @@ def third_challenge
    }, 
    :capulet => {
       :patriarch => {
-        :name => "Lord Ca[ulet",
+        :name => "Lord Capulet",
         :age => "50"
         },
       :matriarch => {
